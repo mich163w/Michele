@@ -19,3 +19,5 @@ I'm a passionate and creative individual with a solid foundation in multimedia d
 
 #### Connect with Me
 📧 mich163w@easv365.dk
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mich163w&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
