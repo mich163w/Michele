@@ -13,7 +13,7 @@ I'm a passionate and creative individual with a solid foundation in multimedia d
 🚀 Always eager to learn and explore new technologies
 
 #### Tech Stack
-🔧 HTML, CSS, JavaScript, Vue
+🔧 HTML, CSS, JavaScript, Vue, PHP
 🎨 Adobe Creative Suite (Illustrator, XD, InDesign, Figma)
 🚀 Bootstrap, React, Typescript (in progress)
 
