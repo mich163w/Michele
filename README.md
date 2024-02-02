@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Michele
 
-🎨 Multimedia Designer | 💻 Web Development Enthusiast | 👩‍💼 Part-time Junior Graphic Designer
+🎨 Multimedia Designer | 💻 Web Development Student | 👩‍💼 Part-time Junior Graphic Designer
 
 #### About Me
 I'm a passionate and creative individual with a solid foundation in multimedia design, and I'm currently diving into the exciting world of web development. My journey began with a degree in Multimedia Design, where I honed my skills in graphic design, user experience, and digital media but also delved into the world of coding.
@@ -13,7 +13,7 @@ I'm a passionate and creative individual with a solid foundation in multimedia d
 🚀 Always eager to learn and explore new technologies<br>
 
 #### Tech Stack
-🔧 HTML, CSS, JavaScript, Vue, PHP <br>
+🔧 HTML, CSS, JavaScript, Vue, PHP, Firebase, XAMPP <br>
 🎨 Adobe Creative Suite (Illustrator, XD, InDesign, Figma)<br>
 🚀 Bootstrap, React, Typescript (in progress)<br>
 
