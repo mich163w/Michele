@@ -15,7 +15,7 @@ I'm a passionate and creative individual with a solid foundation in multimedia d
 #### Tech Stack
 🔧 HTML, CSS, JavaScript, Vue, PHP, Firebase, XAMPP <br>
 🎨 Adobe Creative Suite (Illustrator, XD, InDesign, Figma)<br>
-🚀 Bootstrap, React, Typescript (in progress)<br>
+🚀 Bootstrap, React, Typescript, Angular (in progress)<br>
 
 #### Connect with Me
 📧 mich163w@easv365.dk
